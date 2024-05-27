@@ -5404,8 +5404,8 @@ figcaption {
   }
 
   .footer_to-top-btn {
-    width: 3rem;
-    height: 3rem
+    width: 3rem!important;
+    height: 3rem!important;
   }
 
   .footer_middle-row {
@@ -5908,8 +5908,8 @@ figcaption {
   }
 
   .footer_to-top-btn {
-    width: 2.5rem;
-    height: 2.5rem
+    width: 2.5rem!important;
+    height: 2.5rem!important;
   }
 
   .footer_middle-row {
